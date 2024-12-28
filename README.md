@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to fork this repository and create pull requests. Contributions are welcome!
 
----
+
 
 For more information on GraphQL, you can visit the [official GraphQL website](https://graphql.org/).
 
