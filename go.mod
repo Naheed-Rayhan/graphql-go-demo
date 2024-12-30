@@ -1,4 +1,4 @@
-module test
+module graphql-go-demo
 
 go 1.23.4
 
